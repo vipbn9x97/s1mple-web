@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "s1mple-web": {
+      "hosting": {
+        "firebase": [
+          "s1mple-web"
+        ]
+      }
+    }
+  }
+}
